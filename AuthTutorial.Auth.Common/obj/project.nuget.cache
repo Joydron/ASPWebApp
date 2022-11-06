@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "Avwjt/3UphHfWWfHJ3Z4/NfYdNB+QlGrTguKCQC5/+YTZGcEKFVMamqa7ZizYxgvT+cIPXoe2aWVbdXO6WLfkA==",
+  "success": true,
+  "projectFilePath": "D:\\Codes VS\\09 Angular tests\\ASPWebApp\\AuthTutorial.Auth.Common\\AuthTutorial.Auth.Common.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\houro\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
+    "C:\\Users\\houro\\.nuget\\packages\\microsoft.identitymodel.abstractions\\6.25.0\\microsoft.identitymodel.abstractions.6.25.0.nupkg.sha512",
+    "C:\\Users\\houro\\.nuget\\packages\\microsoft.identitymodel.logging\\6.25.0\\microsoft.identitymodel.logging.6.25.0.nupkg.sha512",
+    "C:\\Users\\houro\\.nuget\\packages\\microsoft.identitymodel.tokens\\6.25.0\\microsoft.identitymodel.tokens.6.25.0.nupkg.sha512",
+    "C:\\Users\\houro\\.nuget\\packages\\system.security.cryptography.cng\\4.5.0\\system.security.cryptography.cng.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
